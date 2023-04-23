@@ -25,7 +25,7 @@
             </div>
             <br>
             <div class="form-group">
-                <label for="validade">Validade</label>
+                <label for="validade">validade</label>
                 <input class="form-control" type="date" name="validade" require>
             </div>
             <br>
